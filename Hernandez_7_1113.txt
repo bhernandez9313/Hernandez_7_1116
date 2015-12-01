@@ -1,0 +1,2 @@
+1. I will use while loops is when the character dies they can try again.
+2. I will use methods to write different parts of the storys.
