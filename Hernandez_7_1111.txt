@@ -1,0 +1,2 @@
+1.In my game my character must defeat some monsters.
+2. The way i will track it, is when he helps the civilians by reminding him self about the good deeds.
