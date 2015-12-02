@@ -1,0 +1,5 @@
+1.A string is a sequence of characters.
+2.Strings are good for getting word answers
+3.to upper case is a string method
+4.we identify some string methods as ways to help you.
+
