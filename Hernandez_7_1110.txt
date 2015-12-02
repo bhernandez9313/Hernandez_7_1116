@@ -1,0 +1,3 @@
+1.The way you can track a challenge in my game is by reminding them about the deeds they have done.  
+2.You can't track hp yet. 
+3.You cant track items. 
