@@ -1,0 +1,5 @@
+1.A class constuctor is something that makes an instance of a class 
+
+2.For orb it should include a value of power to pass on to the orb, as well as movement. 
+
+3.The methods it should have is power,size, and color.
