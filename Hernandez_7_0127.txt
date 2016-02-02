@@ -1,0 +1,3 @@
+1. The way you add an image to your slick game is by first copying the picture in to your res folder. Then you add a new image then put in res/ name of image.
+
+2. The image is drawn in Image . 
