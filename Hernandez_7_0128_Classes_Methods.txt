@@ -1,1 +1,1 @@
-1. It is a method
+1. It is a method because render is a method and public void is mostly used for methods 
