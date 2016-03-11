@@ -1,1 +1,1 @@
-1.You would check in the weapon class. 
+1.you would fo to your World of fun class and then you have to look for if the enemies hits the orbs hit box.
