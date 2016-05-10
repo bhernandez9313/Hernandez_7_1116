@@ -1,0 +1,8 @@
+1. In arduino Arrays,loops,and printing are similar and different in arduino. For example in the arduino you would have to type in more things than norormaly like when you try to print out hello world.In arduino you would put Serial.println("hello world"); instead of just println("hello world");
+2. We plan to make a code adaptation that changes the speed of a motor with a potentiameter.
+3. For a circuit you need a pathway made of wires that electrons can flow through
+4. First, the Arduino performs some small transformations to make sure that thecode is correct C or C++ , then it gets passed to a compiler,then , it turns the human readable code to machine readable code.
+
+
+
+
